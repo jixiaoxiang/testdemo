@@ -1,4 +1,3 @@
 # testdemo
 # testdemo
-预览地址
-https://jixiaoxiang.github.io/testdemo/index.html
+<a href="https://jixiaoxiang.github.io/testdemo/" target="_blank">预览地址</a>
